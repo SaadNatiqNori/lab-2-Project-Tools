@@ -1,0 +1,10 @@
+C:\Users\kanilan\Desktop\IT 3 First Semester\Project Tools\lab 2\lab 2\bin\Debug\lab 2.exe.config
+C:\Users\kanilan\Desktop\IT 3 First Semester\Project Tools\lab 2\lab 2\bin\Debug\lab 2.exe
+C:\Users\kanilan\Desktop\IT 3 First Semester\Project Tools\lab 2\lab 2\bin\Debug\lab 2.pdb
+C:\Users\kanilan\Desktop\IT 3 First Semester\Project Tools\lab 2\lab 2\obj\Debug\lab 2.csprojResolveAssemblyReference.cache
+C:\Users\kanilan\Desktop\IT 3 First Semester\Project Tools\lab 2\lab 2\obj\Debug\lab_2.Form1.resources
+C:\Users\kanilan\Desktop\IT 3 First Semester\Project Tools\lab 2\lab 2\obj\Debug\lab_2.Form2.resources
+C:\Users\kanilan\Desktop\IT 3 First Semester\Project Tools\lab 2\lab 2\obj\Debug\lab_2.Properties.Resources.resources
+C:\Users\kanilan\Desktop\IT 3 First Semester\Project Tools\lab 2\lab 2\obj\Debug\lab 2.csproj.GenerateResource.Cache
+C:\Users\kanilan\Desktop\IT 3 First Semester\Project Tools\lab 2\lab 2\obj\Debug\lab 2.exe
+C:\Users\kanilan\Desktop\IT 3 First Semester\Project Tools\lab 2\lab 2\obj\Debug\lab 2.pdb
